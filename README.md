@@ -1,2 +1,2 @@
 # TA
-Tugas Akhir Fuzzy C-Means
+Tugas Akhir Clustering
